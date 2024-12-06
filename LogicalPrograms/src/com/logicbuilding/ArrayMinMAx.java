@@ -1,5 +1,5 @@
 package com.logicbuilding;
-
+//Maximum and minimum number
 public class ArrayMinMAx {
 
 	public static void main(String[] args) {
